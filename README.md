@@ -2,8 +2,15 @@
 This is a simple project to create a website home page, I use some of my business assets such as name and logo. This project is perfect for beginners who are learning CSS, Javascript, and HTML
 
 
-## What tools are needed to create this project?
-This is my recomendation, for enjoying during remake this project
-1. Laptop/PC with 4GB RAM and 10 GB Free disk
-2. Good internet conection
-3. Yours logo business to change my logo business
+## How project look like?
+![Image Look Like](https://github.com/noerardi/Simple-HomePage/blob/main/simplehomepage.PNG)
+
+## How to change the appearance of the homepage?
+1. Open file simplehomepage.html
+2. Open file stylefinal.css
+3. Change a few codes in both file, to apperance what you want
+
+## Skill Requirement 
+1. Having a good knowledge about html
+2. Having a good knowledge about CSS
+3. Have a good patience in modify code
